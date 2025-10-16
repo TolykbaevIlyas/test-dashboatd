@@ -1,2 +1,2 @@
 import Table from "./ui/Table";
-export default Table
+export {Table}
