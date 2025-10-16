@@ -1,0 +1,20 @@
+.PaginationBlock{
+    color: white;
+    display: flex;
+    gap:8px;
+    text-align: center;
+    align-items: center;
+    font: var(--typography-body-sm);
+}
+
+.PaginationPrevPage{
+    color:var(--dark-neural-700)
+}
+
+p{
+    color:var(--dark-neural-400)
+}
+
+.PaginationNextPage{
+    color:var(--dark-neural-400)
+}

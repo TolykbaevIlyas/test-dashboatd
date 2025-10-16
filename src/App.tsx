@@ -1,12 +1,12 @@
 import './App.css'
 import Footer from './widgets/Footer'
-import Header from './widgets/Header'
+import Pagination from './widgets/Pagination'
 
 function App() {
 
   return (
     <>
-      <Header/>
+      <Pagination/>
       <Footer/>
     </>
   )
