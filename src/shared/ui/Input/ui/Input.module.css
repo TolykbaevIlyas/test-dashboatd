@@ -1,0 +1,19 @@
+.InputBlock{
+    height: 48px;
+    background-color: var(--dark-neural-50);
+    border-radius: 8px;
+    display: flex;
+    gap:133px;
+}
+
+.Input{
+    height: 48px;
+    background-color: var(--dark-neural-50);
+    border:none;
+    color: var(--dark-neural-600);
+    font: var(--typography-body-md);
+    border-radius: 8px;
+    padding:0;
+    padding: 0 16px;
+
+}

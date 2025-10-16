@@ -1,0 +1,23 @@
+:root {
+  --text-active: #FFFFFF;
+  --dark-neural--100: #050506;
+  --dark-neural-0: #101112;
+  --dark-neural-50: #18191A;
+  --dark-neural-200: #303133;
+  --dark-neural-300: #48494D;
+  --dark-neural-400: #5F6166;
+  --dark-neural-500: #787A80;
+  --dark-neural-600: #909399;
+  --dark-neural-700: #A8ACB3;
+  --dark-neural-800: #C0C4CC;
+  --dart-neural-900: #DDE0E6;
+  --dark-neural-1000: #FAFCFF;
+  --brand-500: #FF4D00;
+  
+  --typography-heading-md: 600 32px/48px "Montserrat", sans-serif;
+  --typography-body-sm: 400 14px/20px "Montserrat", sans-serif;
+  --typography-body-md: 400 16px/24px "Montserrat", sans-serif;
+  --typography-table-md: 600 12px/16px "Montserrat", sans-serif;
+  --typography-buttons-md: 600 16px/24px "Montserrat", sans-serif;
+  --typography-footer-md: 500 16px/24px "Montserrat", sans-serif;
+}

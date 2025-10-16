@@ -1,0 +1,10 @@
+.PaginationBlock{
+    display: flex;
+    gap: 16px;
+}
+
+.PaginationText{
+    margin: 0;
+    font: var(--typography-footer-md);
+    opacity: 50%;
+}
