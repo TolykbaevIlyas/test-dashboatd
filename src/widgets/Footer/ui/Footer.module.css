@@ -1,0 +1,26 @@
+.footer{
+    max-width: 1480px;
+    width: 100%;
+}
+
+.footer_block{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    padding:0;
+}
+
+.footer_item{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap:16px;
+}
+
+li{
+    list-style-type: none;
+}
+
+li a{
+    font: var(--typography-footer-md);
+    opacity: 40%;
+}
